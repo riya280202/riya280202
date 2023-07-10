@@ -1,6 +1,6 @@
 
 
-Hi 👋, I'm Riya Bansal
+Hi 👋, I'm Riya Bansal <br>
 Programmer from Vellore Institute of Technology
 
 
