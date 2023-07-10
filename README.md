@@ -5,7 +5,7 @@ Programmer from Vellore Institute of Technology
 
 
 
-🌱 I’m currently learning - Full Stack development and Machine Learning
+🌱 I’m currently learning - Data Structures and Machine Learning
 
 👯 I’m looking to collaborate on any awesome projects
 
