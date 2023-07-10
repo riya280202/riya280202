@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**riya280202/riya280202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi 👋, I'm Riya Bansal
+Programmer from Vellore Institute of Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🌱 I’m currently learning - Full Stack development and Machine Learning
+
+👯 I’m looking to collaborate on any awesome projects
+
+💬 Ask me about .... Full Stack Develoment in MERN
+
+📫 How to reach me: riya28bansal@gmail.com
+
+⚡ Fun fact: Never a procastinator for discussing new ideas
